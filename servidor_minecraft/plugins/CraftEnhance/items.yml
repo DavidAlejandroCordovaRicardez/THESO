@@ -1,0 +1,112 @@
+SCUBA_GEAR_SCUBA_HELMET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: SCUBA_GEAR_SCUBA_HELMET
+COPPER_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: COPPER_INGOT
+GOLD_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: GOLD_INGOT
+GLASS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: GLASS
+SCUBA_GEAR_SCUBA_CHESTPLATE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: SCUBA_GEAR_SCUBA_CHESTPLATE
+DIAMOND:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: DIAMOND
+LEATHER:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: LEATHER
+SCUBA_GEAR_SCUBA_LEGGINGS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: SCUBA_GEAR_SCUBA_LEGGINGS
+SCUBA_GEAR_SCUBA_BOOTS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: SCUBA_GEAR_SCUBA_BOOTS
+EMERALD:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: EMERALD
+CHEST:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: CHEST
+BIOMESOPLENTY_HELLBARK_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_HELLBARK_PLANKS
+BIOMESOPLENTY_FIR_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_FIR_PLANKS
+BIOMESOPLENTY_REDWOOD_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_REDWOOD_PLANKS
+BIOMESOPLENTY_MAHOGANY_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_MAHOGANY_PLANKS
+BIOMESOPLENTY_JACARANDA_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_JACARANDA_PLANKS
+BIOMESOPLENTY_PALM_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_PALM_PLANKS
+BIOMESOPLENTY_WILLOW_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_WILLOW_PLANKS
+BIOMESOPLENTY_DEAD_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_DEAD_PLANKS
+BIOMESOPLENTY_MAGIC_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_MAGIC_PLANKS
+BIOMESOPLENTY_UMBRAN_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: BIOMESOPLENTY_UMBRAN_PLANKS
+REGIONS_UNEXPLORED_DEAD_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: REGIONS_UNEXPLORED_DEAD_PLANKS
+REGIONS_UNEXPLORED_COBALT_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: REGIONS_UNEXPLORED_COBALT_PLANKS
+REGIONS_UNEXPLORED_CYPRESS_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: REGIONS_UNEXPLORED_CYPRESS_PLANKS
+REGIONS_UNEXPLORED_ALPHA_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: REGIONS_UNEXPLORED_ALPHA_PLANKS
+REGIONS_UNEXPLORED_EUCALYPTUS_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: REGIONS_UNEXPLORED_EUCALYPTUS_PLANKS
+REGIONS_UNEXPLORED_BLACKWOOD_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: REGIONS_UNEXPLORED_BLACKWOOD_PLANKS
+REGIONS_UNEXPLORED_PINE_PLANKS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: REGIONS_UNEXPLORED_PINE_PLANKS

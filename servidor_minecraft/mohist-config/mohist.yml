@@ -1,0 +1,122 @@
+# This is the main configuration file for Mohist.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# For a reference for any variable inside this file, check out the Mohist wiki at
+# https://wiki.mohistmc.com/
+#
+# If you need help with the configuration or have any questions related to Spigot,
+# join us at the Discord or drop by our forums and leave a post.
+#
+# Discord: https://discord.gg/mohistmc
+# Forums: https://mohistmc.com/
+# Forums (CN): https://mohistmc.cn/
+
+anvilfix:
+  maximumrepaircost: 40
+  enchantment_fix: false
+  max_enchantment_level: 32767
+player_modlist_blacklist:
+  enable: false
+  list: []
+server_modlist_whitelist:
+  enable: false
+  list: '[mr_stellarity, kuma_api, easyanvils, geckolib, beautify, betteroceanmonuments,
+    dynamiclights, valhelsia_furniture, sophisticatedcore, gpumemleakfix, sound_physics_remastered,
+    modernfix, citadel, alexsmobs, yungsapi, mixinextras, bookshelf, sophisticatedbackpacks,
+    takesapillage, railways, balm, snowrealmagic, carryon, jeresources, betterfortresses,
+    paraglider, qualitycrops, konkrete, advancementplaques, farmersdelight, ambientsounds,
+    endrem, valhelsia_structures, do_a_barrel_roll, supermartijn642corelib, resourcefulconfig,
+    born_in_chaos_v1, lionfishapi, mr_tidal_towns, cataclysm, curios, cerbons_api,
+    seadwellers, bettervillage, tombstone, overweight_farming, resourcefullib, architectury,
+    doapi, terraform, bakery, vinery, dynamic_fps, fallingtree, mavm, bettermineshafts,
+    betterjungletemples, kiwi, amendments, customskinloader, easymagic, jei, universalbonemeal,
+    pingwheel, libraryferret, obscure_api, reap, waystones, wardrobe, fallingleaves,
+    structory, journeymap, integrated_api, myserveriscompatible, better_totem_of_undying,
+    betterdeserttemples, qualitysdelight, fusion, puzzlesaccessapi, forge, travelerstitles,
+    scuba_gear, chococraft, idas, ironchest, minecraft, terrablender, biomesoplenty,
+    radiantgear, moonlight, endermanoverhaul, regions_unexplored, mixinsquared, jade,
+    another_furniture, creativecore, spectrelib, iceberg, flywheel, create, mes, zeta,
+    entityculling, canary, inventoryhud, betterarcheology, structory_towers, mvs,
+    creeperoverhaul, appleskin, lootr, quark, supplementaries, ferritecore, connectedglass,
+    visuality, puzzleslib, justzoom, charmofundying, aquaculture, mns, mavapi, valhelsia_core,
+    deeper_oceans, trashbinmod, aquamirae]'
+max-bees-in-hive: 3
+enchantment-table-book-animation-tick: false
+networkmanager:
+  debug: false
+  intercept: []
+threadpriority:
+  server_thread: 8
+entity:
+  clear:
+    item:
+      enable: false
+      whitelist: []
+      msg: '[Server] Cleaned up %size% drop item'
+      time: 1800
+    monster:
+      enable: false
+      whitelist: []
+      msg: '[Server] Cleaned up %size% monster'
+      time: 1800
+ban:
+  item:
+    enable: false
+    list: []
+  entity:
+    enable: false
+    list: []
+  enchantment:
+    enable: false
+    list: []
+motd:
+  enable: false
+  firstline: <RAINBOW1>A Minecraft Server</RAINBOW>
+  secondline: ''
+settings:
+  messages:
+    ping-command-output: §2%s's ping is %sms
+events:
+  fire_tick: false
+  explosion: false
+forge:
+  bukkitpermissionshandler: true
+worldmanage: true
+velocity:
+  enabled: false
+  onlineMode: false
+  secret: ''
+recipe:
+  warn: false
+tpa:
+  enable: false
+  permissions: true
+back:
+  enable: false
+  permissions: true
+permissions:
+  debug:
+    console: false
+    player: false
+mohist:
+  show_logo: true
+  check_update: true
+  watchdog_spigot: true
+  watchdog_mohist: false
+  lang: en
+  libraries:
+    check: true
+    downloadsource: AUTO
+  installation-finished: false
+config-version: 1
+keepinventory:
+  global:
+    enable: false
+    inventory: true
+    exp: true
+  permission:
+    inventory: mohist.keepinventory.inventory
+    exp: mohist.keepinventory.exp
+  world:
+    inventory: false
+    exp: false

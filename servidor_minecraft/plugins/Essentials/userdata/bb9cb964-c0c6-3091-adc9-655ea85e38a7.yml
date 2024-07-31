@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.215.179.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722446562950
+  login: 1722446677709
+money: '0'
+last-account-name: JoJo_Iruka
+logoutlocation:
+  world: 51116c5e-8f7b-4233-8e02-8dd68ca4fdf3
+  world-name: world
+  x: -1135.9340823004964
+  y: 63.0
+  z: 46.2603357140887
+  yaw: -74.25009155273438
+  pitch: 24.749984741210938
+lastlocation:
+  world: 51116c5e-8f7b-4233-8e02-8dd68ca4fdf3
+  world-name: world
+  x: -1055.5
+  y: 63.0
+  z: 19.5
+  yaw: -1.8000051975250244
+  pitch: 2.4000003337860107

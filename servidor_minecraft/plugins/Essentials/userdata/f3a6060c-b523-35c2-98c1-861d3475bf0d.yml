@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.174.168.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722450457924
+  login: 1722450540560
+money: '0'
+last-account-name: zTukint
+lastlocation:
+  world: 51116c5e-8f7b-4233-8e02-8dd68ca4fdf3
+  world-name: world
+  x: -1282.4908717244318
+  y: 66.67647087614428
+  z: -183.30779983893086
+  yaw: -31.94061279296875
+  pitch: 18.161842346191406
+logoutlocation:
+  world: 51116c5e-8f7b-4233-8e02-8dd68ca4fdf3
+  world-name: world
+  x: -1134.7928766675057
+  y: 63.0
+  z: 45.614887630256014
+  yaw: -92.26904296875
+  pitch: 29.608617782592773
